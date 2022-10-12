@@ -1,0 +1,6 @@
+[submodule "Bottari-Backend"]
+	path = Bottari-Backend
+	url = https://github.com/hatchling13/Bottari-Backend
+[submodule "Bottari-Frontend"]
+	path = Bottari-Frontend
+	url = https://github.com/hatchling13/Bottari-Frontend
